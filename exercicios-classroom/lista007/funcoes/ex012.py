@@ -1,3 +1,5 @@
+# f) Desenvolva uma função que verifique se um número é primo.
+
 def verificar_primo(n):
     """
     Verifica se um número é primo.
